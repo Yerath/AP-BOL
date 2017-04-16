@@ -1,0 +1,6 @@
+
+hsquid:S1871"LThis branch's code block is the same as the block for the branch on line 21.(å¥‡8¿ìí±+
+Š"squid:ClassVariableVisibilityCheck"RMake sellIn a static final constant or non-public and provide accessors if needed.(âİÅüúÿÿÿÿ8¤€ÿ€±+
+ƒ"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¤€ÿ€±+
+†"squid:ClassVariableVisibilityCheck"SMake quality a static final constant or non-public and provide accessors if needed.(·’¥ñ8¤€ÿ€±+
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ş§Äøşÿÿÿÿ8£»”‚±+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/student-dojo.iml" filepath="$PROJECT_DIR$/.idea/modules/student-dojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code.iml" group="student-dojo-01-legacy-code" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code_main.iml" group="student-dojo-01-legacy-code" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/01-legacy-code/student-dojo-01-legacy-code_test.iml" group="student-dojo-01-legacy-code" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework.iml" group="student-dojo-02-homework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework_main.iml" group="student-dojo-02-homework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/student-dojo-02-homework_test.iml" group="student-dojo-02-homework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice.iml" group="student-dojo-customerservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice_main.iml" group="student-dojo-customerservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/customerservice/student-dojo-customerservice_test.iml" group="student-dojo-customerservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice.iml" group="student-dojo-emailservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice_main.iml" group="student-dojo-emailservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/emailservice/student-dojo-emailservice_test.iml" group="student-dojo-emailservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice.iml" group="student-dojo-productservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice_main.iml" group="student-dojo-productservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labs/02-homework/stubs/productservice/student-dojo-productservice_test.iml" group="student-dojo-productservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workshop/student-dojo-workshop.iml" filepath="$PROJECT_DIR$/.idea/modules/workshop/student-dojo-workshop.iml" group="student-dojo-workshop" />
+    </modules>
+  </component>
+</project>

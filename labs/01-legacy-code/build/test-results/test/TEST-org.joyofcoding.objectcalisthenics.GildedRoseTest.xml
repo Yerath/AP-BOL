@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.joyofcoding.objectcalisthenics.GildedRoseTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-03-27T12:53:05" hostname="Dimitrys-MacBook-Air.local" time="0.062">
+  <properties/>
+  <testcase name="after_one_day" classname="org.joyofcoding.objectcalisthenics.GildedRoseTest" time="0.049"/>
+  <testcase name="after_a_shitload_of_days" classname="org.joyofcoding.objectcalisthenics.GildedRoseTest" time="0.004"/>
+  <testcase name="after_one_day_with_sufuras_having_sellIn_lesser_than_zero_and_quality_greater_than_zero" classname="org.joyofcoding.objectcalisthenics.GildedRoseTest" time="0.0"/>
+  <testcase name="after_three_days" classname="org.joyofcoding.objectcalisthenics.GildedRoseTest" time="0.002"/>
+  <testcase name="backstage_pass_golden_copy" classname="org.joyofcoding.objectcalisthenics.GildedRoseTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

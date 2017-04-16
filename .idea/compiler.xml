@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="student-dojo-01-legacy-code_main" target="1.8" />
+      <module name="student-dojo-01-legacy-code_test" target="1.8" />
+      <module name="student-dojo-02-homework_main" target="1.8" />
+      <module name="student-dojo-02-homework_test" target="1.8" />
+      <module name="student-dojo-customerservice_main" target="1.8" />
+      <module name="student-dojo-customerservice_test" target="1.8" />
+      <module name="student-dojo-emailservice_main" target="1.8" />
+      <module name="student-dojo-emailservice_test" target="1.8" />
+      <module name="student-dojo-productservice_main" target="1.8" />
+      <module name="student-dojo-productservice_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

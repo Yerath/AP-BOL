@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":student-dojo-customerservice" external.linked.project.path="$MODULE_DIR$/../../../../../../labs/02-homework/stubs/customerservice" external.root.project.path="$MODULE_DIR$/../../../../../.." external.system.id="GRADLE" external.system.module.group="student-dojo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../labs/02-homework/stubs/customerservice">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../../labs/02-homework/stubs/customerservice/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../../labs/02-homework/stubs/customerservice/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
